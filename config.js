@@ -1,7 +1,7 @@
-const variablesConfiguracion = {
+const configVariables = {
     mongoURL: process.env.MONGO_URL
-}
+};
 
 module.exports = {
-    variablesConfiguracion
+    configVariables
 };
